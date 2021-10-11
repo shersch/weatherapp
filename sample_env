@@ -1,0 +1,8 @@
+# openweathermap.com API key
+OWM_KEY="YOUR_KEY_HERE"
+
+# imperial, metric, or kelvin
+DEF_UNITS="imperial"
+
+# waqi.info API key
+WAQI_KEY="YOUR_KEY_HERE"
